@@ -45,24 +45,18 @@
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the repository**
-
-   ```sh
-   git clone https://github.com/arjunbothra/FinobY-AI.git
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
 
    ```sh
    npm install
    ```
 
-3. **Set up environment variables**
+2. **Set up environment variables**
 
    - Create a `.env` file in the root directory.
    - Add the required environment variables (e.g., database connection string, API keys).
 
-4. **Run the development server**
+3. **Run the development server**
 
    ```sh
    npm run dev
@@ -74,14 +68,7 @@
 
 Finoby AI integrates **Resend** for email alerts. The email templates are built with **React Emails**, allowing dynamic and responsive email designs.
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📞 Contact
-
-For support or collaboration, reach out via:\
-[LinkedIn - Arjun Bothra](https://www.linkedin.com/in/arjunbothra02)
 
 
 
